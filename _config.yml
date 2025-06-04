@@ -1,9 +1,9 @@
 title: Game Hubs
 description: "Game Hubs: A platform for gamers to share their experiences and connect with others."
 owner_name: Ian Manangan
-github_username: Im2008
-github_repo: "GameHubss" 
-baseurl: "/GameHubss"
+github_username: im2008
+github_repo: "GameHubs" 
+baseurl: "/GameHubs"
 future: true
 remote_theme: jekyll/minima
 minima:
